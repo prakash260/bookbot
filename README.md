@@ -1,2 +1,3 @@
 # bookbot
-Python projects
+
+BookBot is my first project!
